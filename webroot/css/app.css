@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+.comments {
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding: 10px;
+	color: #000;
+	background:#fafafa;	
+}
+.comments .title {
+	color: #333;
+	font-weight: bold;
+}
+.comments .text {
+	color: #111;
+}
+
